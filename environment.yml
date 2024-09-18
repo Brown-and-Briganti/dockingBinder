@@ -1,0 +1,11 @@
+name: dockingEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - openbabel=3.1.1
+  - py3dmol=2.4.0
+  - python=3.9.19
+  - numpy
+  - pandas
+  - matplotlib
